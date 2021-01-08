@@ -1,0 +1,22 @@
+.errorMessage {
+  background: rgb(255, 104, 104);
+  color: white;
+  /* padding: 5px; */
+  margin: 10px 5px;
+  border: 1px solid red;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 500px;
+  height: 40px;
+}
+.errorMessage > button {
+  border: 1px solid black;
+  background-color: red;
+  color: white;
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  padding: 5px;
+}

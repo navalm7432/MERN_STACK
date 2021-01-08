@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://naval:nm9166897711@naval-db.a9jns.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "secretjwt"
+}

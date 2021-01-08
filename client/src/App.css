@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.listItem{
+  transition: fade-in .1000ms ease-in ;
+}
+
+@keyframes fade-in{
+  from {opacity: 0;}
+  to{opacity: 100;} 
+}
